@@ -19,3 +19,5 @@
 - 📖 Check out my [xLog](https://zhengtfb-1027.xlog.app/) for more information.
 
 ![ZhengTFB's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengtfb&layout=compact&hide_border=true&langs_count=10)
+
+![Metrics](/github-metrics.svg)
